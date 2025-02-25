@@ -1,0 +1,88 @@
+.kapusta {
+  display: flex;
+  list-style: none;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.redka {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+}
+.wert {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  height: 100px;
+  width: 1600px;
+  margin-top: 50px;
+  font-family: Roboto;
+}
+.you {
+  width: 1600px;
+  height: 200px;
+  background-color: black;
+  color: white;
+  font-family: roboto;
+  padding-left: 500px;
+  padding-top: 200px;
+  font-family: Roboto;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.qu {
+  height: 170px;
+  width: 1600px;
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
+.edc {
+  height: 50px;
+  width: 1600px;
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  font-family: Roboto;
+}
+.cermo {
+  height: 50px;
+  width: 1600px;
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  font-size: 10px;
+  color: grey;
+  font-family: Roboto;
+}
+.qp {
+  width: 100px;
+  height: 50px;
+  margin-left: 600px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-family: Roboto;
+}
+.qo {
+  width: 100px;
+  height: 50px;
+  margin-left: 600px;
+  margin-top: 100px;
+  font-family: Roboto;
+}
+.red {
+  color: white;
+  background-color: blue;
+  margin-left: 600px;
+  width: 150px;
+  height: 50px;
+  font-family: Roboto;
+}
+.rucka {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  font-family: Roboto;
+}
